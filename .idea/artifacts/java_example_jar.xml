@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-example:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_example_jar</output-path>
+    <root id="archive" name="java-example.jar">
+      <element id="module-output" name="java-example" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/onnxruntime/onnxruntime/1.16.0-rc1/onnxruntime-1.16.0-rc1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
